@@ -204,20 +204,7 @@ In normal TLS, the client authenticates the server certificate. In mutual TLS, b
 
 A Certificate Signing Request contains a public key and identity information such as common name and organization. The CA signs the CSR to create a certificate, proving that the certificate was issued by a trusted authority.
 
-## Troubleshooting
 
-### ModuleNotFoundError: No module named 'streamlit'
-
-Run:
-
-```bash
-pip install -r requirements.txt
-```
-
-### Certificate verify failed in the client
-
-Make sure certificates were generated and that the client connects to `localhost`, because the server certificate includes `localhost` and `127.0.0.1` as Subject Alternative Names.
-
-### Decryption failed
-
-Make sure you decrypt with the matching private key. For example, if you encrypted with `server/server.crt`, decrypt with `server/server.key`.
+author
+Ahmad sobeh
+ahmadaymansobeh@gmail.com
