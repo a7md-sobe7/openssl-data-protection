@@ -1,0 +1,17 @@
+============================================
+  Certificate Details
+============================================
+Subject:              CN=localhost, O=MyProject, C=EG
+Issuer:               CN=MyProject Root CA, O=MyProject CA, C=EG
+Serial Number:        6FA16B97E29D457D358F0F96251CF2B20A93B32C
+Valid From:           2026-05-08 21:01:48 UTC
+Valid Until:          2027-05-08 21:06:48 UTC
+Status:               Valid
+Is Expired:           No
+Days Left:            364
+Key Algorithm:        RSA
+Key Size:             2048 bits
+Signature Algo:       sha256WithRSAEncryption
+SANs:                 DNS:localhost, IP:127.0.0.1
+Fingerprint SHA-256:  A6:FE:52:13:74:BE:A6:32:F4:D2:04:1B:ED:E4:5E:BE:A5:54:6B:05:E0:12:A5:8A:D6:D2:EB:B4:45:FA:2C:AA
+============================================

@@ -1,0 +1,2 @@
+Hello, secure world!
+This file is used to test encryption, signatures, and hashes.
